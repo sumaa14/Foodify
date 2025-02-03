@@ -1,0 +1,299 @@
+.logo
+{
+    width: 120px;
+    height: 55px;
+    padding: 1px;
+}
+#navitem1
+{
+    color: white;
+    font-family: "Bebas Neue";
+    font-size: 21px;
+    padding-left: 20px;
+}
+#navitem2
+{
+    color: white;
+    font-family: "Bebas Neue";
+    font-size: 21px;
+    padding-left: 20px;
+}
+#navitem3
+{
+    color: white;
+    font-family: "Bebas Neue";
+    font-size: 21px;
+    padding-left: 20px;
+}
+#navitem4
+{
+    color: white;
+    font-family: "Bebas Neue";
+    font-size: 21px;
+    padding-left: 20px;
+}
+.bannersec-bg-container
+{
+    background-image: url("file:///C:/Users/ASUS/Downloads/bg.jpg");
+    height: 100vh;
+    background-size:cover;
+}
+.bannersec-heading
+{
+    color: #ffffff;
+    font-family: "Luckiest Guy";
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 200px;
+}
+.banner-caption
+{
+    color: white;
+    font-weight: bold;
+    font-family: "Lobster";
+    font-size: 29px;
+    font-weight: 300;
+}
+.custom-button
+{
+    width: 130px;
+    height: 45px;
+    color: black;
+    font-weight: 600;
+    background-image: linear-gradient(#d0b200,#a58d00);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-family: "Roboto";
+}
+.custom-outline-button
+{
+    width: 130px;
+    height: 45px;
+    color:  #d0b200;
+    font-weight: 1000;
+    background-color: transparent;
+    border-width: px;
+    border-style: solid;
+    border-color:  #d0b200;
+    border-radius: 8px;
+}
+.wcu-sec
+{
+    background-color: #ecf0f8;
+}
+.wcu-heading
+{
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    color: #183b56;
+}
+.wcu-des
+{
+    font-family: "Roboto";
+    font-size: 16px;
+    color:#5a7184 ;
+}
+.wcu-card
+{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.wcu-card-image
+{
+    height: 90px;
+    width: 90px;
+}
+.wcu-card-heading
+{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+}
+.wcu-card-des
+{
+    font-family: "Roboto";
+    font-size: 16px;
+    color:#7b8794 ;
+}
+.specialtext
+{
+    font-style: italic;
+    font-weight: 600;
+    color: #323f4b;
+}
+.menu-section
+{
+    background-color: white;  
+}
+.menu-section-heading
+{
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight:700 ;
+    color: #183b56;
+}
+.menu-item1-image
+{
+    height: 320px;
+    border-radius: 15px;
+}
+.menu-item1-title
+{
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #323f4b;
+    margin-top: 24px;
+}
+.menu-item1-link
+{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+}
+.menu-item1-card
+{
+    border-radius: 15px;
+}
+.healthyfood
+{
+    background-color: #ecf0f8;
+}
+.healthyfood-heading
+{
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight:700 ;
+    color: #183b56;
+}
+.healthyfood-des
+{
+    font-family: "Roboto";
+    font-size: 17px;
+    color:#5a7184 ;
+}
+.healthyfood-button
+{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200,#a58d00);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-family: "Roboto";
+}
+.deliverysec-heading
+{
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight:700 ;
+    color: #183b56;
+}
+.deliverysec-des
+{
+    font-family: "Roboto";
+    font-size: 17px;
+    color:#5a7184;
+}
+.deliverysec-button
+{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200,#a58d00);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-family: "Roboto";
+}
+.thankusec
+{
+    padding-bottom: 20px;
+    background-image: radial-gradient(#fff8db,#fae38c);
+}
+.giftsec
+{
+   margin-top: 100px;
+}
+.twitter
+{
+    height: 40px;
+    width: 40px;
+}
+.followus-heading
+{
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight:700 ;
+    color: #183b56;
+}
+.twitter-sec
+{
+    width: 70px;
+    height: 70px;
+    background-color: #faf7e8;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    padding-right: 14px;
+    padding-left: 18px;
+    margin: 15px;
+    border-radius: 40px;
+}
+.insta-sec
+{
+    width: 70px;
+    height: 70px;
+    background-color: #faf7e8;
+    padding-top: 16px;
+    padding-bottom: 18px;
+    padding-right:8px;
+    padding-left: 14px;
+    margin: 13px;
+    border-radius: 40px;
+}
+.facebook-sec
+{
+    width: 70px;
+    height: 70px;
+    background-color: #faf7e8;
+    padding-top: 15px;
+    padding-bottom: 18px;
+    padding-right: 14px;
+    padding-left: 15px;
+    margin: 15px;
+    border-radius: 40px;
+}
+.giftvoucher-heading
+{
+    color: #d0b200;
+    font-weight: 800;
+}
+.addresssec
+{
+    background-color: #1f4766;
+}
+.addresslogo
+{
+    width: 80px;
+    height: 45px;
+}
+.addresssec-heading
+{
+    font-family: "Roboto";
+    font-size: 17px;
+    color: black;
+}
+.addresssec-des
+{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+}
