@@ -1,6 +1,6 @@
 # Foodify - Online Food Ordering Platform
 
-**Foodify** is a modern online food ordering website, built entirely using **HTML and CSS**. It features a dynamic menu and exclusive gift vouchers ensuring an engaging user experience. The website is fully **responsive**, adapting seamlessly to any screen size, including desktops, tablets, and mobile devices.
+**Foodify** is a modern online food ordering website, built entirely using **HTML, CSS and BOOTSTRAP**. It features a dynamic menu and exclusive gift vouchers ensuring an engaging user experience. The website is fully **responsive**, adapting seamlessly to any screen size, including desktops, tablets, and mobile devices.
 
 ## Features
 
